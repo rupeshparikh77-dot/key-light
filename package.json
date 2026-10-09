@@ -1,0 +1,9 @@
+{
+  "name": "keylight",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KEYLIGHT — piano tiles game + real-piano listener, with leaderboard and feedback",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
